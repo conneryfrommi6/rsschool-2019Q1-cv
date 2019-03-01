@@ -1,19 +1,19 @@
-#cv
+# v
 
-###Name, LastName
+### Name, LastName
 
 * Andrei Mozhaev
 
-###Contacts:
+### Contacts:
 
 * conneryfrommi6@gmail.com
 * +375259876543
 
-###Summary:
+### Summary:
 
 Making an effort and spending plenty of time to fill the gaps in my knowledge. Trying to get current information according to the newest  tendencies in web development. Approaches and solutions in development sphere changes extremly fast, thats why there is a nessesity in constant communication with more experinced developers. RSSchool helps in sharing knowledge with colegues, get practical experince in performing the task. Show your abilities and get a job in "name company".  Work and evolve for the benefits of company and your pesonality.
 
-###My skills:
+### My skills:
 * JS Core
 * Node.js
 * Express.js
@@ -22,21 +22,21 @@ Making an effort and spending plenty of time to fill the gaps in my knowledge. T
 * CSS3
 * Grid
 
-###Experience:
+### Experience:
 
 * Completing tasks for courses RSSchool :thumbsup:
 * [Codewars (JS)](www.codewars.com)
 
-###Education:
+### Education:
 
-#####Higher education:
+##### Higher education:
 * BSU. Faculty of Mechanical Mathematics. 
 
-#####Additional education:
+##### Additional education:
 * [Codecademy (HTML, CSS)](www.codecademy.com)
 * [Codewars (JS)](www.codewars.com)
 * BelHard – Node.js for web dev
 * Online course English language
 
-###English level:
+### English level:
 * A2
