@@ -25,7 +25,7 @@ Making an effort and spending plenty of time to fill the gaps in my knowledge. T
 ### Experience:
 
 * Completing tasks for courses RSSchool :thumbsup:
-* [Codewars (JS)](www.codewars.com)
+* [Codewars (JS)](https://www.codewars.com)
 
 ### Education:
 
@@ -33,8 +33,8 @@ Making an effort and spending plenty of time to fill the gaps in my knowledge. T
 * BSU. Faculty of Mechanical Mathematics. 
 
 ##### Additional education:
-* [Codecademy (HTML, CSS)](www.codecademy.com)
-* [Codewars (JS)](www.codewars.com)
+* [Codecademy (HTML, CSS)](https://www.codecademy.com)
+* [Codewars (JS)](https://www.codewars.com)
 * BelHard – Node.js for web dev
 * Online course English language
 
