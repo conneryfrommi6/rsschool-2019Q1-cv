@@ -39,6 +39,35 @@ p{
     text-indent: 20px;
 }
 
+p{
+    line-height: 20px;
+}
 h5{
     text-indent: 10px;
+}
+
+li{
+    margin-bottom: 5px;
+}
+
+
+@media (max-width: 800px){
+    
+    .general-information{
+        width: 100%; 
+        max-width: 100%;
+        position: static;
+     }
+
+     .background-information{
+        width: 100%;
+        border-left: 0;
+        margin-left: 0;
+        
+    }
+
+    section{
+        padding: 5%;
+    }
+
 }
