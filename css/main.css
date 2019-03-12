@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0;
+  }
+
+.general-information{
+    width: 30%;
+    max-width: 307px;
+    margin: 5px 0px;
+    position: fixed;
+ }
+
+.photo img{
+    max-width: 100%;
+    padding:3%;
+    /* border-radius:400px; */
+}
+
+.background-information{
+    width: 70%;
+    margin-left: 30%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-left: solid 1px gray;
+    
+}
+
+section{
+    padding: 2%;
+}
+
+h1,
+p{
+    text-indent: 20px;
+}
+
+h5{
+    text-indent: 10px;
+}
